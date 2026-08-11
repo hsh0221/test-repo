@@ -1,7 +1,0 @@
-테스트용 파일을 추가했다.
-
-add text
-
-add texts
-
-add additional text
